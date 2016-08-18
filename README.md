@@ -10,6 +10,8 @@ This deck was used in the presentation on monitoring equipment for critically il
   
   Daniel & Shawn, Therapy Aides - who helped me get internet connection and the setup for the presentation. 
   
+  Copyrights for all images used belong to their owners. 
+  
 ## Updates
 
 Please check or follow this repository if you wish to get updates (information, studies, slides) & completion of the series
