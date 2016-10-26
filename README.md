@@ -28,4 +28,4 @@ Feel free to create a Pull-Request if you see something that can be improved.
 
 You may reach me at kreektrebano@gmail.com 
   
- 
+![Mr. Gristle](images/mister-gristle.png)
