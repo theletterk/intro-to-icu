@@ -1,12 +1,12 @@
 # Monitoring and Life Support Equipment
 
-This deck was used in the presentation on monitoring equipment for critically ill patients, with the target audience being therapists in the acute care or in-hospital setting. Focus of the presentation for Part I of the series is invasive monitoring equipment, specifically: Art Lines, Central Venous Lines, Pulmonary Artery Catheters, Chest Tubes.
+This deck was used in the presentation on monitoring equipment for critically ill patients, with the target audience being therapists in the acute care or in-hospital setting. Focus of the presentation for Part I of the series is invasive monitoring equipment, specifically: Art Lines, Central Venous Lines, Pulmonary Artery Catheters, Chest Tubes.  Part II on life support equipment limited primarily to: Oxygen Delivery Devices, Ventricular Assist Devices, Intra-aortic Balloon Pump, and Ventilator Basics.
 
 ## The Author Thanks
 
   Karen Bardoni, RN - for the patience during countless consults in the ICU and all the fun tools she brought for show & tell, as well her vast knowledge and contributions to this project.
   
-  Eric Blake, RT - coolest RT I know. 
+  Eric Blake, RT - coolest Respiratory Therapist. Ever. 
   
   St. Mary's Medical Center Therapy Staff - for attending, providing feedback, and not falling asleep during the presentation.  Hope you find the information useful in your practice.
   
