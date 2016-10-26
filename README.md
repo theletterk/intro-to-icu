@@ -6,9 +6,13 @@ This deck was used in the presentation on monitoring equipment for critically il
 
   Karen Bardoni, RN - for the patience during countless consults in the ICU and all the fun tools she brought for show & tell, as well her vast knowledge and contributions to this project.
   
+  Eric Blake, RT - coolest RT I know. 
+  
   St. Mary's Medical Center Therapy Staff - for attending, providing feedback, and not falling asleep during the presentation.  Hope you find the information useful in your practice.
   
   Daniel & Shawn, Therapy Aides - who helped me get internet connection and the setup for the presentation. 
+  
+  To my favorite boy Juris - cannot thank you enough for putting this awesome repository together.
   
   Copyrights for all images used belong to their owners. 
   
