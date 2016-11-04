@@ -5,8 +5,8 @@ This deck was used in the presentation on monitoring equipment for critically il
 ## PDF Downloads
 You can clone this entire repository but if you're only interested in the PDF files then you can download them directly:
 
- - [InvasiveMonitoring.pdf](https://github.com/theletterk/invasive-monitoring/raw/master/InvasiveMonitoring.pdf)
- - [LifesupportEquipment.pdf](https://github.com/theletterk/invasive-monitoring/raw/master/LifesupportEquipment.pdf) 
+ - :closed_book: [Invasive Monitoring PDF](https://github.com/theletterk/invasive-monitoring/raw/master/Invasive+Monitoring.pdf)
+ - :closed_book: [Lifesupport Equipment PDF](https://github.com/theletterk/invasive-monitoring/raw/master/Lifesupport+Equipment.pdf) 
 
 ## The Author Thanks
 
