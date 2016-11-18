@@ -1,6 +1,12 @@
-# Monitoring and Life Support Equipment
+# Monitoring, Life Support Equipment, and Telemetry Basics
 
-This deck was used in the presentation on monitoring critically ill patients, with the target audience being therapists in the acute care or in-hospital setting. Focus of the presentation for Part I of the series is invasive monitoring equipment, specifically: Art Lines, Central Venous Lines, Pulmonary Artery Catheters, Chest Tubes.  Part II on life support equipment limited primarily to: Oxygen Delivery Devices, Ventricular Assist Devices, Intra-aortic Balloon Pump, and Ventilator Basics. Due to increased demand, a third part will be added to include cardiac monitoring through telemetry. 
+This deck was used in the presentation on monitoring critically ill patients, with the target audience being therapists in the acute care or in-hospital setting. 
+
+Focus of the presentation for Part I of the series is invasive monitoring equipment, specifically: Art Lines, Central Venous Lines, Pulmonary Artery Catheters, and Chest Tubes.  
+
+Part II on life support equipment limited primarily to: Oxygen Delivery Devices, Ventricular Assist Devices, Intra-aortic Balloon Pump, and Ventilator Settings.  
+
+Part III on Telemetry or cardiac monitoring basics: Identifying normal and abnormal rhythms that may impact Patient response of safety during therapy intervention. 
 
 ## PDF Downloads
 You can clone this entire repository but if you're only interested in the PDF files then you can download them directly:
