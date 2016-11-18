@@ -11,8 +11,8 @@ Part III on Telemetry or cardiac monitoring basics: Identifying normal and abnor
 ## PDF Downloads
 You can clone this entire repository but if you're only interested in the PDF files then you can download them directly:
 
- - :closed_book: [Invasive Monitoring PDF](https://github.com/theletterk/invasive-monitoring/raw/master/Invasive%20Monitoring.pdf)
- - :closed_book: [Lifesupport Equipment PDF](https://github.com/theletterk/invasive-monitoring/blob/master/Life%20Support.pdf) 
+ - :closed_book: [Invasive Monitoring PDF](/Invasive%20Monitoring.pdf)
+ - :closed_book: [Lifesupport Equipment PDF](/Life%20Support.pdf) 
 
 ## The Author Thanks
 
