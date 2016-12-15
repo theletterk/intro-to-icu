@@ -10,8 +10,10 @@ Part III on Telemetry or cardiac monitoring basics: Identifying normal and abnor
 ## PDF Downloads
 You can clone this entire repository but if you're only interested in the PDF files then you can download them directly:
 
- - :closed_book: [Invasive Monitoring PDF](/Invasive%20Monitoring.pdf)
- - :closed_book: [Lifesupport Equipment PDF](/Life%20Support.pdf) 
+ - :eyeglasses: [Invasive Monitoring PDF](/Invasive%20Monitoring.pdf)
+ - :syringe: [Lifesupport Equipment PDF](/Life%20Support.pdf) 
+ - :heartbeat: [Telemetry Basics PDF](/Telemetry%20Basics.pdf) 
+ - :tada: [Early Mobilization PDF](/Early%20Mobilization.pdf) 
 
 ## The Author Thanks
 Karen Bardoni, RN - for the patience during countless consults in the ICU and all the fun tools she brought for show & tell, as well her vast knowledge and contributions to this project.
