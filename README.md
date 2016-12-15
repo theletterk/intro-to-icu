@@ -21,6 +21,8 @@ Karen Bardoni, RN - for the patience during countless consults in the ICU and al
 Eric Blake, RT - coolest Respiratory Therapist. Ever. 
   
 St. Mary's Medical Center Therapy Staff - for attending, providing feedback, and not falling asleep during the presentation.  Hope you find the information useful in your practice.
+
+All the wonderful authors and institutions in my reference list.  I am growing daily, learning from you all.
   
 Daniel & Shawn, Therapy Aides - who helped me get internet connection and the setup for the presentation. 
   
